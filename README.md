@@ -1,4 +1,4 @@
-This repository contains model code from our Spatial Transcriptomics project, published at ICIBM 2023. I designed and implemented deep learning architectures (transformers, CNNs, and attention-based models) to predict localized gene expression from high-resolution histology images. 
+This repository contains some of the model code from our Spatial Transcriptomics project, published at ICIBM 2023. I designed and implemented deep learning architectures (transformers, CNNs, and attention-based models) to predict localized gene expression from high-resolution histology images. 
 The pipeline involved:
 - High-dimensional image processing and feature extraction
 - Model development with transformers, CNNs, and attention mechanisms
